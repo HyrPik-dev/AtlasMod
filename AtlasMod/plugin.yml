@@ -1,0 +1,19 @@
+name: AtlasMod
+author: HyrPik
+main: fr.hyrpik.log.Main 
+version: bete
+commands:
+  tete:
+    description: Give une tete.
+    alias: [te]
+  staff:
+    description: Voir le staff.
+    alias: [st]
+  register:
+    description: Permet de s'enregistrer sur le serveur !
+  login:
+    description: Permetr de ce connecter au serveur !
+  mod:
+    description: Pour activer le mode Moderation !
+  report:
+    description: Pour report une personne !
